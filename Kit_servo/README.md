@@ -15,4 +15,4 @@ Control servo movement with the joystick.
 * 2 10mm M4 bolts
 * 4 20mm M4 bolts
 
-![Kit Servo/Joystick](img/full.png)
+![Kit Servo/Joystick](https://github.com/FablabLannion/KidsKit/raw/master/Kit_servo/img/full.jpg)
